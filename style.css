@@ -54,6 +54,13 @@ h6{
 
 a{ color: brown; }
 
+h7{
+  font-size: 40px;
+  color:#f54748;
+  font-family: 'Caveat' , cursive;
+}
+
+
 .avatar {border-radius: 100%; 
      width: 300px;
      height: 350px;
@@ -91,7 +98,7 @@ a{ color: brown; }
 .drapeau {
   
   height: 300px;
-  width: 600px;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
